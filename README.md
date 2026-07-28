@@ -139,6 +139,40 @@ used on real data. Bugs caught this way (all fixed in the current code): a unit-
 physical-range check, a GeoTIFF dim-naming crash, and the NumPy string-concatenation issue
 above.
 
+---
+
+## Citation
+
+If you use this repository in your research, please cite the relevant climate datasets, ETCCDI methodology, and software packages used in your analysis.
+
+---
+
+## Contributing
+
+Contributions are welcome. Feel free to submit issues, feature requests, or pull requests to improve the workflow.
+
+---
+
 ## License
 
-Add your license here.
+This project is distributed under the MIT License.
+
+---
+
+## Author
+
+**Imran Ul Haq**
+
+Research Engineer
+Weather and Climate Services, Islamabad, Pakistan.
+
+
+Research interests include:
+
+- Climate Attribution
+- Climate Indices
+- Climate Change
+- Climate Extremes
+- Geospatial Data Science
+- Earth System Modelling
+- Environmental Analytics
