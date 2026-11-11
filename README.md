@@ -51,7 +51,7 @@ trend skip, plot skip, etc.).
 
 ```
 climate_indices/
-├── io_utils.py          Reading: single file / multi-file / directory, name normalization
+├── io_utils.py          Reading: single file / multi-file / directory,
 ├── validate.py           Metadata, coordinate, time, missing-data, physical-range checks
 ├── clean.py                Invalid-value masking, gap interpolation
 ├── units.py                 Kelvin<->Celsius, flux<->mm/day conversion
