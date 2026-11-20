@@ -1,7 +1,7 @@
 # climate-indices-framework
 
 Modular, tested Python pipeline for computing ETCCDI climate extreme indices (TXx, TX90p,
-WSDI, RX1day, RX5day, CDD, CWD, R95p, R99p, and more) from daily `tasmax` and `pr` NetCDF
+WSDI, RX1day, RX5day, CDD, CWD, R95p, R99p, and others) from daily `tasmax` and `pr` NetCDF
 data — built for large (multi-GB), Dask-backed CMIP6/CORDEX/ISIMIP/ERA5-scale datasets.
 
 ## Scope
